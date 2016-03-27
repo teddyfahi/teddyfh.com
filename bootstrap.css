@@ -1,0 +1,74 @@
+.jumbotron {
+  background-image:url('teddy-grad-1440-notlight.jpg');
+  background-position: top right;
+  height: 850px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:72px;
+}
+
+.jumbotron p {
+  font-size: 25px;
+  color: #F0F0E9;
+  text-transform: none;
+  text-shadow: none !important;
+}
+
+.jumbotron h1 {
+  color: #8F641B;
+  font-size: 48px; 
+  font-weight: lighter;
+  text-transform: uppercase;
+}
+
+.jumbotron a {
+  color: #8F641B;
+  font-size: 25px;
+}
+
+.jumbotron a:hover {
+  color: #fff;
+}
+
+.about-me {
+  max-width: 682px;
+}
+
+.learn-more {
+  background-color: #40392D;
+  color: #fff;
+}
+
+.learn-more h3 {
+  font-size: 18px;
+  font-weight: lighter;
+  color: #8F641B;
+  text-transform: uppercase;
+}
+
+.learn-more h2 {
+  font-weight: lighter;
+}
+
+.learn-more p {
+ font-weight: lighter; 
+ font-size: 16px;
+}
+.learn-more a {
+  color: #fff;
+  font-weight: lighter;
+}
+
+.learn-more {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.learn-more a:hover {
+  color: #8F641B;
+}
+
